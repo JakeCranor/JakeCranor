@@ -1,6 +1,7 @@
-- Hi, I’m Jake Cranor. I am currently a 2nd year at Georgia Institute of Technology.
+- Hi, I’m Jake Cranor. I am currently a student at Georgia Institute of Technology.
+- I will be graduating May of 2025
 - I'm currently majoring in Computer Science with threads in People and Intelligence.
-- You can reach me at jake32mc@gmail.com or my linkedIn: www.linkedin.com/in/jake-cranor-939931251
+- You can reach me at jake32mc@gmail.com or my linkedIn: www.linkedin.com/in/jakecranor
 
 <!---
 JakeCranor/JakeCranor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
